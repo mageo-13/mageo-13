@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mageo-13
+- **👋 Hi there, I’m @mageo-13**
 - 👀 I’m interested in remote sensing, GeoAI, vegetation monitoring, and climate change impacts.
 
 <!---
