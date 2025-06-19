@@ -1,5 +1,5 @@
 **👋 Hi there, I’m @mageo-13**
-- 👀 I’m interested in remote sensing, GeoAI, vegetation monitoring, and climate change impacts.
+- 👀 I’m interested in Machine Learning, Remote Sensing, GeoAI, Vegetation Monitoring, and Climate Change impacts.
 
 <!---
 mageo-13/mageo-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
